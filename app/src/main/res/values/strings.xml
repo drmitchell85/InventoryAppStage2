@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Inventory Tracker</string>
+
+    <string name="editor_activity_title_new_item">Add new item</string>
+
+    <string name="editor_activity_title_edit_item">Edit item</string>
+
+    <string name="editor_insert_item_failed">Item insert failed</string>
+
+    <string name="editor_insert_item_successful">Item added</string>
+
+    <string name="editor_update_item_failed">Item update failed</string>
+
+    <string name="editor_update_item_successful">Item updated</string>
+
+    <string name="editor_delete_item_failed">Item delete failed</string>
+
+    <string name="editor_delete_item_successful">Item deleted</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this item?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="category_overview">Overview</string>
+
+    <string name="error_required">Required</string>
+    <string name="empty_view_subtitle">Begin by adding new inventory</string>
+    <string name="id_empty_view_title">No items to show</string>
+    <string name="text_view_price_title">Price $:</string>
+    <string name="text_view_quantity_title">Quantity:</string>
+
+</resources>
